@@ -5,11 +5,25 @@ links:
   - label: LinkedIn
     url: "https://linkedin.com/in/xinlin-cao"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/xcao"
 output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I'm a Stats and Data Science undergrad who's also interested in robotics/ML and computer graphics. I like cats and games, and cats in games.
+
+- idk
+
+- idkk
+
+---
+
+
+`r Sys.time()`
+
+
+```{r, include=FALSE, results='hide'}
+print(Sys.time())
+```
+
+
