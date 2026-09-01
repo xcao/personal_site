@@ -12,9 +12,9 @@ output:
  
 I'm a Stats and Data Science undergrad who's also interested in robotics/ML and computer graphics. I like cats and games, and cats in games.
 
-- idk
+- Madeline Miller
 
-- idkk
+- Ishiguro
 
 ---
 
